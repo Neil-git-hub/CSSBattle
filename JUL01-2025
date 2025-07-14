@@ -1,0 +1,1 @@
+<p a><p b><p><style>*{background:#51A499}p{background:#23384B;height:80;width:80;position:fixed;border-radius:50%;top:174;left:120}p[a]{top:34}p[b]{height:140;width:160;top:74;left:120;background:linear-gradient(90deg,#51A499 0%,#51A499 50%,#23384B 50%,#23384B 100%);border-radius:0;z-index:2}
